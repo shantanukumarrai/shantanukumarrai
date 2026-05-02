@@ -1,6 +1,6 @@
 # Hi there, I'm Shantanu 👋
 
-🌐 **Web Developer & DSA Enthusiast** from  kolkata 
+🌐 **Web Developer & DSA Enthusiast** 
 Passionate about building AI-powered web apps and solving problems with C++.
 
 ---
@@ -45,12 +45,7 @@ Currently diving deep into **Python & Machine Learning** 🐍 — one commit at 
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shantanukumarrai&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shantanukumarrai&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Connect With Me
 
@@ -58,7 +53,7 @@ Currently diving deep into **Python & Machine Learning** 🐍 — one commit at 
 - 🌐 Portfolio: https://shantanukumarray.netlify.app/
 - 💼 LinkedIn: https://linkedin.com/in/shantanu-kumar-ray-18740b284
 - 💻 LeetCode: https://leetcode.com/u/shantau-kumar-ray/
-- 📍 Location: Haldia, India
+- 📍 Location: west Bengal kolkata 
 
 ---
 
